@@ -1,0 +1,226 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    h2{
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 30PX;
+    }
+
+    h3{
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    h4{
+        font-family: sans-serif;
+        text-align: center;
+        color: white;
+    }
+
+    #parrafobonito{
+        font-family: sans-serif;
+        color: white;
+
+    }
+
+    .contenedor{
+        text-align: center;
+    }
+
+    .img{
+        width: 300px;
+    }
+
+    .contenedor2 {
+        display: flex;
+        background-color: black;
+        color: white;
+        font-family: sans-serif;
+        font-size: 24px;
+    }
+
+    #tabla{
+        border: 2px solid white;
+        width: 100%;
+    }
+
+    .contenedor3{
+        background-image: url(publicidad.jpg);
+        width: 100%;
+        text-align: center;
+    }
+
+    #boton {
+        text-align: center;
+        width: 200px;
+        font-family: 'Lucida Sans';
+        border: 2px solid white;
+        border-radius: 15px;
+        background: black;
+        color: wheat;
+        font-size: 25px;
+        padding: 5px;
+    }
+
+    .contenedor4{
+        display: flex;
+        width: 100%;
+    }
+
+    .seccion1{
+
+        width: 50%;
+        padding: 30px;
+        background: rgb(187, 187, 187);
+    }
+
+    .titulomaraton{
+        background: black;
+        border-radius: 15px;
+        border: 1px solid white;
+    }
+
+    #maraton{
+        width: 100%;
+        text-align: center;
+        border-radius: 20px;
+    }
+
+    .seccion2{
+        width: 50%;
+        padding: 30px;
+        background-color: rgb(0, 0, 0);
+    }
+
+    .noticias2{
+        display: flex;
+        border: 1px solid rgba(255, 255, 255, 0.89);
+        border-radius: 15px;
+        padding: 10px;
+    }
+
+    .imgart1{
+        width: 50%;
+
+    }
+
+    #natacion{
+        width: 100%;
+        border-radius: 15px;
+
+    }
+
+    .Texart1{
+        width: 50%;
+        padding: 10px;
+    }
+
+    .noticias3{
+        display: flex;
+        border: 1px solid rgba(255, 255, 255, 0.89);
+        border-radius: 15px;
+        padding: 10px;
+    }
+
+    .imgart3{
+        width: 50%;
+
+    }
+
+    #ciclismo{
+        width: 100%;
+        border-radius: 15px;
+
+    }
+
+    .Texart2{
+        width: 50%;
+        padding: 10px;
+    }
+
+    .seccion3{
+        display: flex;
+    }
+
+    .seccion3-1{
+
+        width: 50%;
+        text-align: center;
+        background: black;
+
+    }
+
+    #calendario{
+        width: 400px;   
+    }
+
+    #redes{
+        width: 100%;
+    }
+
+    .cronograma-de-entreno{
+        color: wheat;
+    }
+
+    .empieza-ahora{
+        color: white;
+    }
+
+    .seccion3-2{
+
+        width: 50%;
+        text-align: center;
+        background: rgb(0, 0, 0);
+    }
+    
+    .articlemapa{
+        width: 100%;
+    }
+
+    #mapa{
+        width: 100%;
+    }
+
+    #textoregistro{
+        width: 300px; 
+        color:white;
+        font-family: 'Lucida Sans';
+    }
+
+    #cajaregistro{
+        background-color: bisque; 
+        width: 640px; 
+        border:1px solid black; 
+        border-radius: 10px; 
+        padding: 5px; 
+        font-size: 25px;
+    }
+
+    .seccion4{
+        width: 100%;
+        display: flex;
+        background: rgb(44, 44, 44);
+    }
+
+    .article4-1{
+        width: 25%;
+        text-align: center;
+        border: 1px solid white;
+        border-radius: 15px;
+        background: rgb(0, 0, 0);
+        padding: 20px;
+    }
+
+    #img4-1{
+        width: 75%;
+        border-radius: 20px;
+    }
+
+    .aside{
+        text-align: center;
+        background: rgb(156, 156, 156);
+    }
+
